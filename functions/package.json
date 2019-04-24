@@ -8,6 +8,9 @@
     "start": "npm run shell",
     "deploy": "firebase deploy --only functions",
     "logs": "firebase functions:log"
+  },"repository": {
+    "type" : "git",
+    "url" : "https://github.com/MahmoudAmin39/Wise-Node.git"
   },
   "main": "lib/index.js",
   "dependencies": {
